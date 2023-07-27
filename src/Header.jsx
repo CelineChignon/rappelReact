@@ -4,9 +4,9 @@ const Header = () => {
         <nav className="navBar">
 
             <ul className="containerHaider" >
-                <li>Meals</li>
-                <li>Contact</li>
-                <li>Connect</li>
+                <li className="liHeader">Meals</li>
+                <li className="liHeader">Contact</li>
+                <li className="liHeader">Connect</li>
             </ul>
         </nav>
     )

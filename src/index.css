@@ -11,8 +11,11 @@ width: 150px;
 
 .containerHaider{
     display:flex;
-    justify-content:flex-end;
-   
-  background-color: rgb(235, 252, 159);
-  padding: 20px};
+    justify-content:space-around;
+    background-color: rgb(235, 252, 159);
+    padding: 20px
+  };
 
+  .liHeader{
+    margin: 0px 50px;
+  }
